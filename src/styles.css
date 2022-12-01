@@ -1,0 +1,22 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  
+  body,
+  html {
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/77017/cine.jpg?w=608&ar=default&fit=crop&crop=faces,edges&auto=format");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+  .gif {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+  }
